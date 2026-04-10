@@ -207,6 +207,14 @@
       "created_at": "2026-04-03T19:31:54Z",
       "repoId": 741297064,
       "pullRequestNo": 493
+    },
+    {
+      "name": "YizukiAme",
+      "id": 104178195,
+      "comment_id": 4224654618,
+      "created_at": "2026-04-10T14:55:26Z",
+      "repoId": 741297064,
+      "pullRequestNo": 498
     }
   ]
 }
